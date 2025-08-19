@@ -17,8 +17,8 @@
 ---
 
 ## 📊 GitHub Stats
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lusilva888hub&show_icons=true&theme=tokyonight)  
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lusilva888hub&layout=compact&theme=tokyonight)
 
 ---
 
