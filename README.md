@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Lucy
+# 👋 Olá, eu sou Lucy.
 
 💼 Trabalho há 4 anos como **Analista Administrativo** em uma empresa de tecnologia.  
 📚 Atualmente, sou **Graduanda em Análise e Desenvolvimento de Sistemas**, área que despertou minha paixão por **tecnologia e Cyber Security**.  
