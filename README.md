@@ -23,4 +23,4 @@
 
 ## 🌐 Onde me encontrar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucineia-santos-916863244/)  
-📧 **Email:** seuemail@exemplo.com
+📧 **Email:** lu.silvasantos888@gmail.com
